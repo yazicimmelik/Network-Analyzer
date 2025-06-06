@@ -55,8 +55,8 @@
 **Yükleme / Setup:**
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/ag-guvenligi-analizi.git
-cd ag-guvenligi-analizi/dns_tunneling_detector
+git clone https://github.com/yazicimmelik/Network-Analyzer.git
+cd Network-Analyzer
 pip install -r requirements.txt
 ```
 
