@@ -116,6 +116,17 @@ Send a pull request, open an issue, contribute.
 
 ---
 
+## Acknowledgements / *Teşekkürler*
+
+Thanks to:  
+- Keyvan Arasteh (keyvan.arasteh@istinye.edu.tr)
+- Istinye University
+
+*Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
+
+
+---
+
 ## 8. Lisans  
 ## 8. License
 
